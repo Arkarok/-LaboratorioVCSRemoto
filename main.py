@@ -1,4 +1,4 @@
-
+ 
 print("Calcular el producto de dos numeros enteros")
 
 a=int(input("Digita un numero, Por favor: "))
@@ -32,3 +32,4 @@ raiz=math.sqrt(d)
 print("La raiz es " + str(raiz))
 
 print("Se ha calculado con exito")
+
